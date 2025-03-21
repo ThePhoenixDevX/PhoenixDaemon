@@ -1,20 +1,20 @@
-<p align="center">
-  <img src=(https://raw.githubusercontent.com/ThePhoenixDevX/PhoenixDaemon/refs/heads/main/daemon.webp) alt="HydraBanner">
-</p>
+# Phoenix Daemon
 
-<h1 align="center">HydraDaemon</h1>
+![PhoenixDaemon Logo](https://raw.githubusercontent.com/ThePhoenixDevX/PhoenixCP/refs/heads/main/phoenixcp.webp)
+
+<h1 align="center">PhoenixDaemon</h1>
 ## Overview
-Hydra Daemon is the daemon for the Hydra Panel.
+Phoenix Daemon is the daemon for the Phoenix Panel.
 
 ## Installation
 1. Clone the repository:
-`git clone https://github.com/hydren-dev/HydraDAEMON`
+`git clone https://github.com/ThePhoenixDevX/PhoenixDaemon.git`
 
 2. Install dependencies:
 `npm install`
 
-3. Configure HydraDAEMON:
-- Get your Panel's access key from the Hydra panel's config.json file and set it as 'remoteKey'. Do the same for the other way, set your HydraDaemon access key and configure it on the Panel.
+3. Configure PhoenixDaemon:
+- Get your Panel's access key from the Phoenix panel's config.json file and set it as 'remoteKey'. Do the same for the other way, set your PhoenixDaemon access key and configure it on the Panel.
 
 4. Start the Daemon:
 `node . # or use pm2 to keep it online`
@@ -28,10 +28,6 @@ The daemon runs as a background service, interfacing with the Hydra Panel for op
 ## Contributing
 Contributions to enhance the functionality or performance of the Hydra Daemon are encouraged. Please submit pull requests for any enhancements.
 
-## License
-(c) 2024 MJ and contributors. This software is licensed under the MIT License.
-
 
 ## Credits
-SRYDEN
-Skyport
+ThePhoenixDevX
