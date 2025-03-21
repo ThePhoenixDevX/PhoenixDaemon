@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HydraLabs-beta/sedar/main/HydraDaemon2.png" alt="HydraBanner">
+  <img src=(https://raw.githubusercontent.com/ThePhoenixDevX/PhoenixDaemon/refs/heads/main/daemon.webp) alt="HydraBanner">
 </p>
 
 <h1 align="center">HydraDaemon</h1>
