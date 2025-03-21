@@ -1,6 +1,6 @@
 # Phoenix Daemon
 
-![PhoenixDaemon Logo](https://raw.githubusercontent.com/ThePhoenixDevX/PhoenixCP/refs/heads/main/phoenixcp.webp)
+![PhoenixDaemon Logo](https://raw.githubusercontent.com/ThePhoenixDevX/PhoenixDaemon/refs/heads/main/daemon.webp)
 
 <h1 align="center">PhoenixDaemon</h1>
 ## Overview
